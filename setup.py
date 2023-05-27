@@ -4,5 +4,5 @@ setup(
     version='1.0.0',
     author='Pedro Serra',
     description='Módulo de operações aritméticas',
-    py_modules=['arithmetic'],
+    py_modules=['pedroserra'],
 )
